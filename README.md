@@ -13,7 +13,7 @@ The demo video and project details can be accessed here http://devpost.com/softw
 - get better at Digital Marketing
 - latest trends on Healthcare Innovation
 
-You can also paste job-postings, articles, project documents and more.
+You can also paste longer paragraphs or links like job-postings, articles, project summaries and more.
 
 ## Shared Code
 All scripts used to interact with Watson are provided in the */watson-api-calls* directory. NLC - training data can be found in */training-data* directory.
