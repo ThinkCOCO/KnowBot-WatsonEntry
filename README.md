@@ -20,4 +20,4 @@ All scripts used to interact with Watson are provided in the */watson-api-calls*
 
 _other proprietary app code from Mya is not included | only watson-specific calls and structure is shared to establish proof_
 
-- by Niraj Swami
+by Niraj Swami
