@@ -7,11 +7,11 @@ The demo video and project details can be accessed here http://devpost.com/softw
 **Get started by texting +12562692268 **
 
 ## Example phrases to text
-moving to Pittsburgh
-interviewing with IBM
-meet with John Paxson from Chicago Bulls
-get better at Digital Marketing
-latest trends on Healthcare Innovation
+- moving to Pittsburgh
+- interviewing with IBM
+- meet with John Paxson from Chicago Bulls
+- get better at Digital Marketing
+- latest trends on Healthcare Innovation
 
 You can also paste job-postings, articles, project documents and more.
 
